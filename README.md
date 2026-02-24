@@ -97,10 +97,10 @@ A console-based **Library Management System** written in **x86 Assembly (MASM)**
 
 This project was developed as a group project for **CSE341 – Microprocessors**.
 
-| Name            | Student ID  |
-|-----------------|-------------|
-| Rhythm          | 22201748    |
-| Bushra Mehreen  | 22201405    |
-| Nehal Mahfuz    | 22299391    |
+| Name                | Student ID |
+|---------------------|------------|
+| Farhan Sadiq Rhythm | 22201748   |
+| Bushra Mehreen      | 22201405   |
+| Nehal Mahfuz        | 22299391   |
 
 ---
